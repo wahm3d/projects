@@ -1,4 +1,4 @@
-Note: If access is ever needed to the private repo, please shoot me an email at waleedahmedhannan@gmail.com and I'd be happy to help 
+**Note:** _If access is ever needed to the private repo, please shoot me an email at waleedahmedhannan@gmail.com and I'd be happy to help :)
 
 ### Sudoku Solver
 
