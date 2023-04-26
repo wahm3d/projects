@@ -6,5 +6,8 @@
 * Sudoku Solver using Genetic Algorithm Principles: 
 https://github.com/wahm3d/projects/blob/main/Sudoku_README.md
 
+* Course Registration Website:
+
+
 
 
