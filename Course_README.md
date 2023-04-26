@@ -2,7 +2,11 @@
 
 ### Course registration website
 
-* For my web development course I created a fully functional course registration website. 
+* For my web development course I created a fully functional course registration website.
+* I used JavaScript and NodeJS for the backend. 
+* Express for request handling from the client side 
+* And MongoDB for database purposes.
+* I also wrote Mocha tests to make sure everything was working as intended.  
 * A few of the functions include, but are not limited to:
     * registering new users
     * login/logout functionality
@@ -10,3 +14,5 @@
     * a dynamic search that updates as the user types
     * a student schedule
     * a printable and downloadable enrollment verification PDF generator
+    * updating user info and picture.
+    * 
