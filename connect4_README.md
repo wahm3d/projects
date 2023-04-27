@@ -2,7 +2,7 @@
 
 **Video Demo Link:** [https://www.youtube.com/watch?v=G-LZ6xV_olk](https://www.youtube.com/watch?v=vw4es7AELNg)
 
-###Connect 4 with MiniMax algorithm with Alpha Beta Pruning
+### Connect 4 with MiniMax algorithm with Alpha Beta Pruning
 
 * created a connect 4 project which has 4 options, human, greedy, random and alpha beta
     * human: just the standard human player that can be controlled by clicking on the board
