@@ -18,3 +18,5 @@
     * a printable and downloadable enrollment verification PDF generator
     * updating user info and picture.
 
+![Course Registratrion](image_2023-04-27_124519554.png)
+
