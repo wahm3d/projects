@@ -15,4 +15,7 @@ https://github.com/wahm3d/projects/blob/main/data_visualization_README.md
 * **Connect 4 project with minimax algorithm and apha beta pruning**:
 https://github.com/wahm3d/projects/blob/main/connect4_README.md
 
+* **Focus (Domination) Board game for Software Engineering class**:
+https://github.com/wahm3d/projects/blob/main/Domination_README.md
+
 
