@@ -15,4 +15,4 @@
     * a student schedule
     * a printable and downloadable enrollment verification PDF generator
     * updating user info and picture.
-    * 
+
