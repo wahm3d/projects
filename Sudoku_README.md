@@ -10,5 +10,4 @@
 - Has a graph of the max, avg, and minimum genetic algorithm fitness over the generations elapsed.
 
 ![Sudoku Solver](soduku_solver.jpg)
-[![Alt text](https://img.youtube.com/vi/G-LZ6xV_olk/0.jpg)](https://www.youtube.com/watch?v=G-LZ6xV_olk)
 
