@@ -1,5 +1,7 @@
 **Note:** _If access is ever needed to the private repoes with the code to the projects described below, please shoot me an email at waleedahmedhannan@gmail.com and I'd be happy to help :)_
 
+**Video Demo:**: https://www.youtube.com/watch?v=UhaClLw-UEc
+
 ### Course registration website
 
 * For my web development course I created a fully functional course registration website.
