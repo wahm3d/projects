@@ -9,7 +9,7 @@ https://github.com/wahm3d/projects/blob/main/Sudoku_README.md
 * **Course Registration Website using Javascript, NodeJS, Express and MongoDB (and Mocha Tests)**:
 https://github.com/wahm3d/projects/blob/main/Course_README.md
 
-* **Candian Airspace Safety Data Visualization project**:
+* **Candian Airspace Safety Data Visualization project (Jupyter Notebooks, Seaborn, Matplotlib, Pandas, Plotly)**:
 https://github.com/wahm3d/projects/blob/main/data_visualization_README.md
 
 * **Connect 4 project with minimax algorithm and apha beta pruning**:
