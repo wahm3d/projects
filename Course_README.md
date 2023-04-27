@@ -1,6 +1,6 @@
 **Note:** _If access is ever needed to the private repoes with the code to the projects described below, please shoot me an email at waleedahmedhannan@gmail.com and I'd be happy to help :)_
 
-**Video Demo:**: https://www.youtube.com/watch?v=UhaClLw-UEc
+**Video Demo:** https://www.youtube.com/watch?v=UhaClLw-UEc
 
 ### Course registration website
 
@@ -18,5 +18,8 @@
     * a printable and downloadable enrollment verification PDF generator
     * updating user info and picture.
 
-![Course Registratrion](image_2023-04-27_124519554.png)
+![Course Registratrion Main page](image_2023-04-27_124519554.png)
 
+![Course Registratrion Register page](registerpage.png)
+
+![Course Registratrion Schedule](schedule.jpg)
