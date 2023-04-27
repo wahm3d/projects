@@ -6,7 +6,7 @@
 * **Sudoku Solver using Genetic Algorithm Principles**: 
 https://github.com/wahm3d/projects/blob/main/Sudoku_README.md
 
-* **Course Registration Website**:
+* **Course Registration Website using Javascript, NodeJS, Express and MongoDB**:
 https://github.com/wahm3d/projects/blob/main/Course_README.md
 
 * **Candian Airspace Safety Data Visualization project**:
