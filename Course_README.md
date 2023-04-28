@@ -20,6 +20,6 @@
 
 ![Course Registratrion Main page](Pictures/image_2023-04-27_124519554.png)
 
-![Course Registratrion Register page](registerpage.png)
+![Course Registratrion Register page](Pictures/registerpage.png)
 
-![Course Registratrion Schedule](schedule.jpg)
+![Course Registratrion Schedule](Pictures/schedule.jpg)
