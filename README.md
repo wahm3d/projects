@@ -18,4 +18,7 @@ https://github.com/wahm3d/projects/blob/main/connect4_README.md
 * **Focus (Domination) Board game for Software Engineering class (Java)**:
 https://github.com/wahm3d/projects/blob/main/Domination_README.md
 
+* **Q-learning algorithm project with a visual graph of iterations needed (JavaScript):** 
+https://github.com/wahm3d/projects/blob/main/q-learning_README.md
+
 
