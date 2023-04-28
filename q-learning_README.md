@@ -7,4 +7,4 @@
 * The user can place tile, remove tile, change rewards of locations, and move the bot
 * There is also a visual graph to see the average iterations taken at each run of the program 
 
-![Q-learning picture](q-learning.jpg)
+![Q-learning picture](Pictures/q-learning.jpg)

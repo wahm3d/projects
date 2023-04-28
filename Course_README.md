@@ -18,7 +18,7 @@
     * a printable and downloadable enrollment verification PDF generator
     * updating user info and picture.
 
-![Course Registratrion Main page](image_2023-04-27_124519554.png)
+![Course Registratrion Main page](Pictures/image_2023-04-27_124519554.png)
 
 ![Course Registratrion Register page](registerpage.png)
 

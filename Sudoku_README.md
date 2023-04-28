@@ -9,5 +9,5 @@
 - Has different fitness functions but they are present mostly for testing purposes, decided to leave them in because they are kind of cool
 - Has a graph of the max, avg, and minimum genetic algorithm fitness over the generations elapsed.
 
-![Sudoku Solver](soduku_solver.jpg)
+![Sudoku Solver](Pictures/soduku_solver.jpg)
 
